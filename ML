@@ -1,5 +1,10 @@
-MIT open source https://ocw.mit.edu/
+MIT open source(各种) https://ocw.mit.edu/
+
+CNN http://cs231n.stanford.edu/
+ML  http://cs229.stanford.edu/
 Coursera  https://www.coursera.org/programs/4f033d72-5b96-4d59-b3d4-2519708b144a
+NLP http://web.stanford.edu/class/cs224n/
+
 OSSU  github.com/ossu
 优达扫盲  https://classroom.udacity.com/courses/ud187
 Machine Learning Summer Schools http://mlss.cc/index.html
