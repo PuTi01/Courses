@@ -8,3 +8,5 @@ NLP http://web.stanford.edu/class/cs224n/
 OSSU  github.com/ossu
 优达扫盲  https://classroom.udacity.com/courses/ud187
 Machine Learning Summer Schools http://mlss.cc/index.html
+
+SPP-NN https://www.zhihu.com/question/45873400
